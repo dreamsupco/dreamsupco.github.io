@@ -3,11 +3,99 @@
   <channel>
     <title>DreamsUp tile</title>
     <description>Bienvenidos a casa.</description>
-    <link>http://localhost:4000/dreamsup/</link>
-    <atom:link href="http://localhost:4000/dreamsup/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Aug 2020 00:07:11 -0300</pubDate>
-    <lastBuildDate>Mon, 10 Aug 2020 00:07:11 -0300</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 10 Aug 2020 00:54:21 -0300</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2020 00:54:21 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Nahir opina!</title>
+        <description>&lt;p&gt;Some time ago now a colleague showed me this useful method to estimate a lot of things in a short amount of time. It amazes me how the teams empowered themselves more than the actual process speed.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-use&quot;&gt;How to use?&lt;/h4&gt;
+
+&lt;p&gt;It’s actually really simple! Add the rating in your YAML front matter. It also supports halfs:&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;---
+layout: post
+title:  &quot;Inception Movie&quot;
+author: john
+categories: [ Jekyll, tutorial ]
+tags: [red, yellow]
+image: assets/images/11.jpg
+description: &quot;My review of Inception movie. Actors, directing and more.&quot;
+rating: 4.5
+---
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Tue, 14 Apr 2020 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/nahir-opina/</link>
+        <guid isPermaLink="true">http://localhost:4000/nahir-opina/</guid>
+        
+        <category>red</category>
+        
+        <category>yellow</category>
+        
+        
+        <category>Opiniones</category>
+        
+      </item>
+    
+      <item>
+        <title>Scrum Toolkit: Agile Estimation Technique by Compare</title>
+        <description>&lt;p&gt;Some time ago now a colleague showed me this useful method to estimate a lot of things in a short amount of time. It amazes me how the teams empowered themselves more than the actual process speed.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-use&quot;&gt;How to use?&lt;/h4&gt;
+
+&lt;p&gt;It’s actually really simple! Add the rating in your YAML front matter. It also supports halfs:&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;---
+layout: post
+title:  &quot;Inception Movie&quot;
+author: john
+categories: [ Jekyll, tutorial ]
+tags: [red, yellow]
+image: assets/images/11.jpg
+description: &quot;My review of Inception movie. Actors, directing and more.&quot;
+rating: 4.5
+---
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Mon, 13 Apr 2020 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/scrum-toolkit-agile-estimation-technique-by-compare/</link>
+        <guid isPermaLink="true">http://localhost:4000/scrum-toolkit-agile-estimation-technique-by-compare/</guid>
+        
+        <category>red</category>
+        
+        <category>yellow</category>
+        
+        
+        <category>Scrum</category>
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>Vmo la prubea</title>
@@ -40,8 +128,8 @@ rating: 4.5
 &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 11 Jan 2020 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/dreamsup/que-service/</link>
-        <guid isPermaLink="true">http://localhost:4000/dreamsup/que-service/</guid>
+        <link>http://localhost:4000/que-service/</link>
+        <guid isPermaLink="true">http://localhost:4000/que-service/</guid>
         
         <category>red</category>
         
@@ -160,7 +248,7 @@ rating: 4.5
 &lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/dreamsup/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
 
@@ -175,8 +263,8 @@ rating: 4.5
 &lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/dreamsup/powerful-things-markdown-editor/</link>
-        <guid isPermaLink="true">http://localhost:4000/dreamsup/powerful-things-markdown-editor/</guid>
+        <link>http://localhost:4000/powerful-things-markdown-editor/</link>
+        <guid isPermaLink="true">http://localhost:4000/powerful-things-markdown-editor/</guid>
         
         
         <category>Jekyll</category>
@@ -200,8 +288,8 @@ rating: 4.5
 &lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/dreamsup/first-mass-produced/</link>
-        <guid isPermaLink="true">http://localhost:4000/dreamsup/first-mass-produced/</guid>
+        <link>http://localhost:4000/first-mass-produced/</link>
+        <guid isPermaLink="true">http://localhost:4000/first-mass-produced/</guid>
         
         
         <category>Jekyll</category>
@@ -242,7 +330,7 @@ rating: 4.5
 
 &lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/dreamsup/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
 
@@ -257,8 +345,8 @@ rating: 4.5
 &lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/dreamsup/education/</link>
-        <guid isPermaLink="true">http://localhost:4000/dreamsup/education/</guid>
+        <link>http://localhost:4000/education/</link>
+        <guid isPermaLink="true">http://localhost:4000/education/</guid>
         
         
         <category>Jekyll</category>
@@ -282,8 +370,8 @@ rating: 4.5
 &lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/dreamsup/acumulated-experience/</link>
-        <guid isPermaLink="true">http://localhost:4000/dreamsup/acumulated-experience/</guid>
+        <link>http://localhost:4000/acumulated-experience/</link>
+        <guid isPermaLink="true">http://localhost:4000/acumulated-experience/</guid>
         
         
         <category>Jekyll</category>
@@ -305,8 +393,8 @@ rating: 4.5
 &lt;p&gt;For more information about how to use &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 May 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/dreamsup/about-bundler/</link>
-        <guid isPermaLink="true">http://localhost:4000/dreamsup/about-bundler/</guid>
+        <link>http://localhost:4000/about-bundler/</link>
+        <guid isPermaLink="true">http://localhost:4000/about-bundler/</guid>
         
         
         <category>Jekyll</category>
@@ -320,8 +408,8 @@ rating: 4.5
 &lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/dreamsup/we-all-wait-for-summer/</link>
-        <guid isPermaLink="true">http://localhost:4000/dreamsup/we-all-wait-for-summer/</guid>
+        <link>http://localhost:4000/we-all-wait-for-summer/</link>
+        <guid isPermaLink="true">http://localhost:4000/we-all-wait-for-summer/</guid>
         
         
         <category>Jekyll</category>
@@ -346,61 +434,8 @@ rating: 4.5
 
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/dreamsup/tree-of-codes/</link>
-        <guid isPermaLink="true">http://localhost:4000/dreamsup/tree-of-codes/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Red Riding Hood</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/dreamsup/red-riding/</link>
-        <guid isPermaLink="true">http://localhost:4000/dreamsup/red-riding/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Press and education</title>
-        <description>&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
-
-&lt;p&gt;Education must also train one for quick, &lt;strong&gt;resolute and effective thinking&lt;/strong&gt;. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
-
-&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
-
-&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/dreamsup/press-and-education/</link>
-        <guid isPermaLink="true">http://localhost:4000/dreamsup/press-and-education/</guid>
+        <link>http://localhost:4000/tree-of-codes/</link>
+        <guid isPermaLink="true">http://localhost:4000/tree-of-codes/</guid>
         
         
         <category>Jekyll</category>
