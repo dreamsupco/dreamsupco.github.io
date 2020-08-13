@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scrum Toolkit: Agile Estimation Technique by Compare"
-author: kun
+author: hjure
 categories: [ Scrum, tutorial ]
 tags: [red, yellow]
 image: assets/images/scrum/target-missed.jpg

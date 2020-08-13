@@ -1,23 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DreamsUp tile</title>
-    <description>Bienvenidos a casa.</description>
+    <title>DreamsUp</title>
+    <description>Bienvenidos a casa...</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Aug 2020 19:22:36 -0300</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2020 19:22:36 -0300</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2020 22:55:15 -0300</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2020 22:55:15 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Nahir opina!</title>
-        <description>&lt;p&gt;Some time ago now a colleague showed me this useful method to estimate a lot of things in a short amount of time. It amazes me how the teams empowered themselves more than the actual process speed.&lt;/p&gt;
+        <title>Scrum Toolkit: Retrospective</title>
+        <description>&lt;p&gt;“Scrum is a framework for developing, delivering, and sustaining complex products”&lt;/p&gt;
 
-&lt;h4 id=&quot;how-to-use&quot;&gt;How to use?&lt;/h4&gt;
+&lt;p&gt;“A framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value”&lt;/p&gt;
 
-&lt;p&gt;It’s actually really simple! Add the rating in your YAML front matter. It also supports halfs:&lt;/p&gt;
+&lt;h2 id=&quot;retrospectives&quot;&gt;Retrospectives&lt;/h2&gt;
 
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+&lt;p&gt;In other words we can build our way to work on top on this framework adding practices, techniques, and whatever use or help the team to co-create value to business.&lt;/p&gt;
+
+&lt;p&gt;These are some fundamental tools that might help, some mechanics or practical techniques that I’ve been recopilating and putting them in my toolbox,&lt;/p&gt;
+
+&lt;p&gt;I hope that they’ll be helpful for someone else as they have been for me :)&lt;/p&gt;
+
+&lt;p&gt;“The purpose of the Sprint Retrospective is to:&lt;/p&gt;
+
+&lt;p&gt;Inspect how the last Sprint went with regards to people, relationships, process, and tools;
+ Identify and order the major items that went well and potential improvements; and,
+ Create a plan for implementing improvements to the way the Scrum Team does its work.”&lt;/p&gt;
+
+&lt;p&gt;Most common mechanical is using following classification:&lt;/p&gt;
+
+&lt;p&gt;What went well?
+What didn’t go well?
+What can we improve&lt;/p&gt;
+
+&lt;p&gt;A- Takes at most three ideas or things to improve. Vote for all or those 3.&lt;/p&gt;
+
+&lt;p&gt;B- Remember, you have to take one and put it in the sprint backlog.&lt;/p&gt;
+
+&lt;p&gt;C- Keep log the input of each retro, mainly for the next one.&lt;/p&gt;
+
+&lt;h3 id=&quot;1--4-ls-liked--learned--lacked--longed-for&quot;&gt;1- 4 Ls: Liked — Learned — Lacked — Longed For&lt;/h3&gt;
+
+&lt;p&gt;Image for post
+Image for post&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Split the canvas in 4 areas (or use 4 posters):&lt;/p&gt;
+
+    &lt;p&gt;Liked — things you really liked
+ Learned — things you have learned
+ Lacked — things you have seen the team doing, but consider that could be done better.
+ Longed for — something you desired or wished for&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ask the participants to individually write notes on post-it for each of the L areas.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Group conversation about the notes&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;2--speedboat&quot;&gt;2- Speedboat&lt;/h3&gt;
+
+&lt;p&gt;Image for post
+Image for post&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;If our team is this speedboat, what anchors are holding us back and keeping us from getting faster/better? ( Anchors — Anclas: Slows down )&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What are the gusts of wind that help our sailboat to move forward. ( Viento: Mueve al equipo)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Do this exercise in three steps:&lt;/p&gt;
+
+    &lt;p&gt;First collect all the anchors, as it’s easier for most teams to collect their current problems.
+ Ask the team to turn each anchor into goals, desires or wishes and put them before the cloud to represent the gusts of wind pushing the boat forward.
+ Use these “winds” to define a desirable goal that you will use as true north for the rest of the retrospective.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;3--speedcar&quot;&gt;3- Speedcar&lt;/h3&gt;
+&lt;p&gt;Image for post
+Image for post&lt;/p&gt;
+
+&lt;p&gt;This is a simple activity for helping the team to identify things that make them move faster, and things that slow them down.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ask the participants to write notes and place them on the following two areas:&lt;/p&gt;
+
+    &lt;p&gt;Engine: What have been pushing us forward? Making us move faster?
+ Parachute: What have been slowing us down?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Group the notes and discuss.&lt;/p&gt;
+    &lt;h3 id=&quot;4--starfish&quot;&gt;4- Starfish&lt;/h3&gt;
+    &lt;p&gt;Image for post
+Image for post&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The starfish divides the board into 5 areas:&lt;/p&gt;
+
+&lt;p&gt;Keep Doing — something the team is doing well and you recognize the value on it.&lt;/p&gt;
+
+&lt;p&gt;Less Of — something already being done; you see some value, but you rather reduce a little bit.&lt;/p&gt;
+
+&lt;p&gt;More Of — something already being done; and you believe will bring more value if done even more.&lt;/p&gt;
+
+&lt;p&gt;Stop Doing — something that is not bringing value, or even worse, it is getting on the way.&lt;/p&gt;
+
+&lt;p&gt;Start Doing — a new idea, or something you have seen working before that you would like to bring to the table&lt;/p&gt;
+&lt;h3 id=&quot;4--ssc--stopstart-continue&quot;&gt;4- SSC — Stop,Start, Continue,&lt;/h3&gt;
+&lt;p&gt;Image for post
+Image for post&lt;/p&gt;
+
+&lt;p&gt;Start: items are things a team member thinks the team should add to its process.&lt;/p&gt;
+
+&lt;p&gt;Stop: items are things that someone on the team thinks are inefficient or are wasting time.&lt;/p&gt;
+
+&lt;p&gt;Continue: list contains items the team would like to continue to emphasize but that are not yet habits. So any of the start or stop items above could go onto the continue list and stay there for a few sprints.&lt;/p&gt;
+
+&lt;p&gt;Eventually — once the item became a habit — it would be removed from the continue list. Otherwise, the continue would become tremendously long&lt;/p&gt;
+&lt;h3 id=&quot;5--mad-glad-sad&quot;&gt;5- Mad, Glad, Sad&lt;/h3&gt;
+&lt;p&gt;Image for post
+Image for post&lt;/p&gt;
+
+&lt;p&gt;This mad sad glad style retrospective encourages your team to be more emotionally-aware to help build a positive team dynamic, and provides an opportunity to reflect on issues and opportunities from a different perspective. It is important you remember the retrospective prime directive and focus on events, behaviours and processes — not on assigning blame or ‘guilting’ individuals.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;Mad — List the things that are driving you crazy. What is stopping you from performing at your best?
+Sad — What are some of the things that have disappointed you or that you wished could be improved?
+Glad — What makes you happy when you think about this project? What are the elements that you enjoy the most?
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;6--the-kalm-keep-add-more-less&quot;&gt;6- The KALM (Keep, Add, More, less)&lt;/h3&gt;
+&lt;p&gt;Image for post
+Image for post&lt;/p&gt;
+
+&lt;p&gt;Divides the board into 4 areas:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;Keep — something the team is doing well and you recognize the value on it.
+Less — something already being done; but you rather do less of it.
+More– something already being done; and you believe will bring more value if done even more.
+Add — a new idea, or something you have seen working before that you would like to bring to the table.
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Please note that the Keep, More and Less areas are in a axis. This activity was inspired on the starfish activity.&lt;/p&gt;
+&lt;h3 id=&quot;7--lean-coffee&quot;&gt;7- Lean Coffee&lt;/h3&gt;
+&lt;p&gt;Image for post
+Image for post&lt;/p&gt;
+
+&lt;p&gt;“Participants gather, build an agenda, and begin talking. Conversations are directed and productive because the agenda for the meeting was democratically generated.”&lt;/p&gt;
+
+&lt;p&gt;Use it when you want to…&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;Have an open ended conversation that is entirely owned and directed by the team.
+Ensure that the ideas the team collectively wants to emphasize are discussed at the beginning of the retrospective.
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;How it works&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;Step One: Before the retrospective starts the facilitator should set up a kanban board with three columns: To Do, Doing, Done
+Step Two: To start the retrospective the facilitator should explain how the technique works and provide the team with the timebox for the retrospective (1–2 hours, depending on the size of the team).
+Step Three: Ideation. The facilitator should hand out sticky notes to the participants and tell them the timebox for this phase (10–15 minutes should be enough). Participants should keep their sticky notes private so that participants aren’t biased by each other’s ideas. When the timebox expires, the participants should place their sticky notes in the “To Do” column on the kanban board.
+Step Four: Grouping. Since many sticky notes will likely contain related (or even identical) ideas, participants should group sticky notes into logical themes. Participants can use markers to draw circles around related sticky notes. The facilitator should announce the timebox (10–15 minutes) and encourage the participants to stand up and move from poster to poster to make this part of the retrospective interactive and fun.
+Step Five: Dot Voting. The facilitator should announce the timebox (5–10 minutes) and, if the team has never used dot voting before, explain how it works:
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Tell each participant that they have a certain number of votes that they can use to indicate their preference for a sticky note or group. Make sure participants understand that they can distribute their votes as they wish. For example, one participant could place all their votes on a single sticky note to indicate how important it is to him or her to discuss that idea. On the other hand, another participant could distribute their votes evenly across many sticky notes.&lt;/p&gt;
+
+&lt;p&gt;Have the participants vote on sticky notes or groups (they can use a marker to place a dot above the sticky they want to vote for).&lt;/p&gt;
+
+&lt;p&gt;After voting is complete, the facilitator should sort the sticky notes based on the number of votes each received. This sorted list represents the collective prioritization of the sticky notes.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;Step Six: Discussion. The facilitator should announce the timebox for this phase (45 minutes to 1.5 hours should be enough). The facilitator can optionally choose to timebox the discussion of each individual sticky note as well (to 5 or 10 minutes). The advantage of this approach is that it tends to keep the conversation on topic and moving at a faster pace. As discussion starts for a sticky note, the facilitator should move the sticky note to the “Doing” column on the kanban board. When discussion is over for the sticky note, the facilitator should move it to the “Done” column on the kanban board, and then move on to the next sticky note in priority order.
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Virutal Lean Coffe&lt;/p&gt;
+
+&lt;p&gt;If you are looking to run your own virtual lean coffee, consider that your tools should support:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
 2
 3
 4
@@ -26,29 +209,33 @@
 7
 8
 9
-10
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;---
-layout: post
-title:  &quot;Inception Movie&quot;
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: &quot;My review of Inception movie. Actors, directing and more.&quot;
-rating: 4.5
----
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;creating cards
+add and edit text on cards
+group cards together (to make it easier to find similar topics)
+vote on cards
+sort cards by vote (auto-prioritize)
+move cards between columns (when the group is ready to start or end discussion.
+To have an adjustable timer that anyone (or just the facilitator) can control — you may choose a shorter timebox if you are continuing a conversation on topic once or twice
+To record epiphanies or decisions
+To record actions from any of the cards
 &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Some super nice places to find great ideas:&lt;/p&gt;
+
+&lt;p&gt;http://www.funretrospectives.com/&lt;/p&gt;
+
+&lt;p&gt;https://www.scrum-tips.com/&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Apr 2020 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/nahir-opina/</link>
-        <guid isPermaLink="true">http://localhost:4000/nahir-opina/</guid>
+        <link>http://localhost:4000/scrum-toolkit-retrospective/</link>
+        <guid isPermaLink="true">http://localhost:4000/scrum-toolkit-retrospective/</guid>
         
         <category>red</category>
         
         <category>yellow</category>
         
         
-        <category>Opiniones</category>
+        <category>Scrum</category>
         
       </item>
     
@@ -98,7 +285,7 @@ rating: 4.5
       </item>
     
       <item>
-        <title>Vmo la prubea</title>
+        <title>When Scrum is not Agile</title>
         <description>&lt;p&gt;Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.&lt;/p&gt;
 
 &lt;h4 id=&quot;how-to-use&quot;&gt;How to use?&lt;/h4&gt;
@@ -128,15 +315,40 @@ rating: 4.5
 &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 11 Jan 2020 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/que-service/</link>
-        <guid isPermaLink="true">http://localhost:4000/que-service/</guid>
+        <link>http://localhost:4000/when-scrum-not-agile/</link>
+        <guid isPermaLink="true">http://localhost:4000/when-scrum-not-agile/</guid>
         
         <category>red</category>
         
         <category>yellow</category>
         
         
-        <category>Jekyll</category>
+        <category>Scrum</category>
+        
+        <category>Anti-Patterns</category>
+        
+      </item>
+    
+      <item>
+        <title>Scrum Toolkit: Refinement</title>
+        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+
+&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+
+&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/scrum-toolkit-refi/</link>
+        <guid isPermaLink="true">http://localhost:4000/scrum-toolkit-refi/</guid>
+        
+        
+        <category>Scrum</category>
         
         <category>tutorial</category>
         
@@ -265,31 +477,6 @@ rating: 4.5
         <pubDate>Tue, 12 Jun 2018 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/powerful-things-markdown-editor/</link>
         <guid isPermaLink="true">http://localhost:4000/powerful-things-markdown-editor/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>The first mass-produced book to deviate from a rectilinear format</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/first-mass-produced/</link>
-        <guid isPermaLink="true">http://localhost:4000/first-mass-produced/</guid>
         
         
         <category>Jekyll</category>

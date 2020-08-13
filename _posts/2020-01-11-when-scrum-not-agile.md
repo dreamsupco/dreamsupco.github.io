@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Nahir opina!"
+title:  "When Scrum is not Agile"
 author: kun
-categories: [ Opiniones ]
+categories: [ Scrum, Anti-Patterns ]
 tags: [red, yellow]
-image: assets/images/scrum/target-missed.jpg
-description: "asdasdasdSome tiasdadasdme ago now a colleague showed me this useful method to estimate a lot of things in a short amount of time."
+image: assets/images/11.jpg
+description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: true
 hidden: true
 rating: 4.5
 ---
 
-Some time ago now a colleague showed me this useful method to estimate a lot of things in a short amount of time. It amazes me how the teams empowered themselves more than the actual process speed.
+Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
 
 #### How to use?
 
